@@ -1,0 +1,30 @@
+[ 
+   {
+  "name" : "vivo1",
+  "Caps": {
+    "deviceName": "vivo Y12G",
+    "udid": "30808950190017F",
+    "platformName": "Android",
+    "platformVersion": "11",
+    "automationName": "UiAutomator2",
+    "appPackage": "com.ssi.agroworlds",
+    "appActivity": "com.ssi.agroworlds.view.ui.login.ActivityLogin",
+    "recordVideo": true
+     }
+ }
+    
+    {
+  "name" : "vivo2",
+  "Caps": {
+    "deviceName": "Vivo Y36",
+    "udid": "10BDB70PG4000XX",
+    "platformName": "Android",
+    "platformVersion": "13",
+    "automationName": "UiAutomator2",
+    "appPackage": "com.ssi.agroworlds",
+    "appActivity": "com.ssi.agroworlds.view.ui.login.ActivityLogin",
+    "recordVideo": true
+     }
+   }
+
+]	
